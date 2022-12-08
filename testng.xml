@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+<!-- <parameter name="env" value="QA"/> -->
+  <test name="Unlimint Automation" >
+  <parameter name="env" value="QA"/>
+        <classes>
+            <class name="com.unlimint.Runner.RunCucumberFeatures" /> 
+        </classes>
+  </test>
+</suite>
