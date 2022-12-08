@@ -1,8 +1,13 @@
 StepDefinitions\fetchUser_StepDefination.class
-Core\CoreFunctions.class
+Cucumber\ScenarioContext.class
+enums\Context.class
+StepDefinitions\user_Registration.class
 BrowserInstance\BrowserHandle.class
 Config\Config.class
+PageObjects\user_Registration_PO.class
+Cucumber\TestContext.class
 Utility\PageUtil.class
 com\unlimint\Runner\RunCucumberFeatures.class
-Utility\Log.class
 Core\Assertions.class
+Core\CoreFunctions.class
+Utility\Log.class

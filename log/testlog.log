@@ -4875,3 +4875,206 @@
 2022-12-08 09:45:36,381 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@6da9541c: 8 ms
 2022-12-08 09:45:36,390 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@197cc325: 8 ms
 2022-12-08 09:45:36,394 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7a0d2c80: 4 ms
+2022-12-08 20:09:41,610 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2022-12-08 20:09:41,628 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2022-12-08 20:09:41,629 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-12-08 20:09:41,630 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-12-08 20:09:41,631 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-12-08 20:09:41,631 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-12-08 20:09:41,632 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-12-08 20:09:41,632 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-12-08 20:09:41,633 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-12-08 20:09:41,634 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2022-12-08 20:09:41,635 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-12-08 20:09:41,635 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-12-08 20:09:41,636 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-12-08 20:09:41,637 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2022-12-08 20:09:41,638 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-12-08 20:09:41,639 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2022-12-08 20:09:41,642 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-12-08 20:09:41,643 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-12-08 20:09:41,643 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-12-08 20:09:41,644 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-12-08 20:09:41,645 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-12-08 20:09:41,646 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-12-08 20:09:41,646 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-12-08 20:09:41,647 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-12-08 20:09:41,647 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-12-08 20:09:41,648 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-12-08 20:09:41,649 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-12-08 20:09:41,650 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-12-08 20:09:41,650 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-12-08 20:09:41,650 - org.testng.internal.Utils -INFO - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-12-08 20:09:41,656 - org.testng.internal.Utils -INFO - [TestNG] Running:
+  C:\Users\gurenderkush\AppData\Local\Temp\testng-eclipse--1835544646\testng-customsuite.xml
+
+2022-12-08 20:09:41,993 - org.testng.internal.Utils -INFO - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2022-12-08 20:09:47,011 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-12-08 20:09:47,026 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\gurenderkush\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-08 20:09:57,734 - Utility.Log -INFO - finding Web element By.xpath: /html/body/div[2]/header/div[1]/div/ul/li[3]/a
+2022-12-08 20:09:57,755 - Utility.Log -INFO - Clicking on Click on create account link
+2022-12-08 20:09:58,973 - Utility.Log -INFO - Pass:Successfully clicked on Click on create account link
+2022-12-08 20:09:58,974 - Utility.Log -INFO - finding Web element By.xpath: //span[text()='Create New Customer Account']
+2022-12-08 20:09:59,004 - Utility.Log -INFO - Getting Element Text
+2022-12-08 20:09:59,018 - Utility.Log -INFO - Pass:Text is:Create New Customer Account
+2022-12-08 20:09:59,019 - Utility.Log -INFO - finding Web element By.xpath: //span[text()='Create New Customer Account']
+2022-12-08 20:09:59,031 - Utility.Log -INFO - Getting Element Text
+2022-12-08 20:09:59,042 - Utility.Log -INFO - Pass:Text is:Create New Customer Account
+2022-12-08 20:09:59,046 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="firstname"]
+2022-12-08 20:09:59,068 - Utility.Log -INFO - Setting text
+2022-12-08 20:09:59,151 - Utility.Log -INFO - Pass:Christopher is entered
+2022-12-08 20:09:59,152 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="lastname"]
+2022-12-08 20:09:59,173 - Utility.Log -INFO - Setting text
+2022-12-08 20:09:59,218 - Utility.Log -INFO - Pass:Allen is entered
+2022-12-08 20:09:59,218 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="email_address"]
+2022-12-08 20:09:59,236 - Utility.Log -INFO - Setting text
+2022-12-08 20:09:59,297 - Utility.Log -INFO - Pass:christopher.allen@example.com is entered
+2022-12-08 20:09:59,297 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="password"]
+2022-12-08 20:09:59,311 - Utility.Log -INFO - Setting text
+2022-12-08 20:09:59,358 - Utility.Log -INFO - Pass:Unlimint@56789 is entered
+2022-12-08 20:09:59,359 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="password-confirmation"]
+2022-12-08 20:09:59,374 - Utility.Log -INFO - Setting text
+2022-12-08 20:09:59,421 - Utility.Log -INFO - Pass:Unlimint@56789 is entered
+2022-12-08 20:09:59,421 - Utility.Log -INFO - finding Web element By.xpath: //span[text()='Create an Account']
+2022-12-08 20:09:59,437 - Utility.Log -INFO - Clicking on Click on create account button
+2022-12-08 20:10:03,134 - Utility.Log -INFO - Pass:Successfully clicked on Click on create account button
+2022-12-08 20:10:03,136 - Utility.Log -INFO - finding Web element By.xpath: //span[text()='Men']
+2022-12-08 20:10:03,351 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="ui-id-17"]
+2022-12-08 20:10:03,511 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="ui-id-19"]/span
+2022-12-08 20:10:03,536 - Utility.Log -INFO - Waiting for wait to display
+2022-12-08 20:10:03,584 - Utility.Log -INFO - Pass:wait is displayed
+2022-12-08 20:10:05,612 - Utility.Log -INFO - finding Web element By.xpath: //ol[@class='products list items product-items']/li//img
+2022-12-08 20:10:05,636 - Utility.Log -INFO - Clicking on select an item
+2022-12-08 20:10:07,972 - Utility.Log -INFO - Pass:Successfully clicked on select an item
+2022-12-08 20:10:07,974 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="option-label-color-93-item-49"]
+2022-12-08 20:10:08,004 - Utility.Log -INFO - Clicking on choose the color
+2022-12-08 20:10:08,072 - Utility.Log -INFO - Pass:Successfully clicked on choose the color
+2022-12-08 20:10:08,072 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="option-label-size-143-item-170"]
+2022-12-08 20:10:08,100 - Utility.Log -INFO - Clicking on choose the size
+2022-12-08 20:10:08,217 - Utility.Log -INFO - Pass:Successfully clicked on choose the size
+2022-12-08 20:10:08,217 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="product-addtocart-button"]/span
+2022-12-08 20:10:08,237 - Utility.Log -INFO - Clicking on add to cart
+2022-12-08 20:10:08,315 - Utility.Log -INFO - Pass:Successfully clicked on add to cart
+2022-12-08 20:10:08,317 - Utility.Log -INFO - finding Web element By.xpath: /html/body/div[2]/header/div[2]/div[1]/a
+2022-12-08 20:10:08,350 - Utility.Log -INFO - Waiting for element to display
+2022-12-08 20:10:08,377 - Utility.Log -INFO - Pass:element is displayed
+2022-12-08 20:10:13,419 - Utility.Log -INFO - finding Web element By.xpath: /html/body/div[2]/header/div[2]/div[1]/a
+2022-12-08 20:10:13,439 - Utility.Log -INFO - Clicking on 
+2022-12-08 20:10:13,487 - Utility.Log -INFO - Pass:Successfully clicked on 
+2022-12-08 20:10:13,487 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="top-cart-btn-checkout"]
+2022-12-08 20:10:13,511 - Utility.Log -INFO - Clicking on checkout
+2022-12-08 20:10:14,921 - Utility.Log -INFO - Pass:Successfully clicked on checkout
+2022-12-08 20:10:19,952 - Utility.Log -INFO - finding Web element By.xpath: //input[@name='street[0]']
+2022-12-08 20:10:19,973 - Utility.Log -INFO - Setting text
+2022-12-08 20:10:20,117 - Utility.Log -INFO - Pass:E Pecan St is entered
+2022-12-08 20:10:20,118 - Utility.Log -INFO - finding Web element By.xpath: //input[@name='city']
+2022-12-08 20:10:20,145 - Utility.Log -INFO - Setting text
+2022-12-08 20:10:20,229 - Utility.Log -INFO - Pass:Red Oak is entered
+2022-12-08 20:10:20,230 - Utility.Log -INFO - finding Web element By.xpath: //select[@name='region_id']
+2022-12-08 20:10:20,254 - Utility.Log -INFO - Select value
+2022-12-08 20:10:20,352 - Utility.Log -INFO - finding Web element By.xpath: //input[@name='postcode']
+2022-12-08 20:10:20,381 - Utility.Log -INFO - Setting text
+2022-12-08 20:10:20,478 - Utility.Log -INFO - Pass:30561 is entered
+2022-12-08 20:10:20,480 - Utility.Log -INFO - finding Web element By.xpath: //input[@name='telephone']
+2022-12-08 20:10:20,503 - Utility.Log -INFO - Setting text
+2022-12-08 20:10:20,601 - Utility.Log -INFO - Pass:(324) 678-9963 is entered
+2022-12-08 20:10:20,602 - Utility.Log -INFO - finding Web element By.xpath: //input[@name='ko_unique_1']
+2022-12-08 20:10:20,633 - Utility.Log -INFO - Clicking on shipping method
+2022-12-08 20:10:20,709 - Utility.Log -INFO - Pass:Successfully clicked on shipping method
+2022-12-08 20:10:20,711 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="shipping-method-buttons-container"]/div/button/span
+2022-12-08 20:10:20,742 - Utility.Log -INFO - Clicking on next button
+2022-12-08 20:10:20,809 - Utility.Log -INFO - Pass:Successfully clicked on next button
+2022-12-08 20:10:28,843 - Utility.Log -INFO - finding Web element By.xpath: //button[@title='Place Order']
+2022-12-08 20:10:28,865 - Utility.Log -INFO - Clicking on place order button
+2022-12-08 20:10:28,947 - Utility.Log -INFO - Pass:Successfully clicked on place order button
+2022-12-08 20:10:28,949 - Utility.Log -INFO - finding Web element By.xpath: //span[@data-ui-id='page-title-wrapper']
+2022-12-08 20:10:28,973 - Utility.Log -INFO - Getting Element Text
+2022-12-08 20:10:28,989 - Utility.Log -INFO - Pass:Text is:Checkout
+2022-12-08 20:10:31,665 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3f40568e: 0 ms
+2022-12-08 20:10:31,687 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2c4be45f: 21 ms
+2022-12-08 20:10:31,716 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@65e92505: 29 ms
+2022-12-08 20:10:31,717 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@e97f51c: 1 ms
+2022-12-08 20:10:31,721 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@4742466e: 4 ms
+2022-12-08 20:10:31,729 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@55c8fc60: 7 ms
+2022-12-08 20:10:31,733 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@efa04b5: 3 ms
+2022-12-08 20:15:36,802 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-12-08 20:15:36,819 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\gurenderkush\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-12-08 20:15:45,768 - Utility.Log -INFO - finding Web element By.xpath: /html/body/div[2]/header/div[1]/div/ul/li[3]/a
+2022-12-08 20:15:45,796 - Utility.Log -INFO - Clicking on Click on create account link
+2022-12-08 20:15:47,461 - Utility.Log -INFO - Pass:Successfully clicked on Click on create account link
+2022-12-08 20:15:47,462 - Utility.Log -INFO - finding Web element By.xpath: //span[text()='Create New Customer Account']
+2022-12-08 20:15:47,502 - Utility.Log -INFO - Getting Element Text
+2022-12-08 20:15:47,519 - Utility.Log -INFO - Pass:Text is:Create New Customer Account
+2022-12-08 20:15:47,519 - Utility.Log -INFO - finding Web element By.xpath: //span[text()='Create New Customer Account']
+2022-12-08 20:15:47,534 - Utility.Log -INFO - Getting Element Text
+2022-12-08 20:15:47,543 - Utility.Log -INFO - Pass:Text is:Create New Customer Account
+2022-12-08 20:15:47,548 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="firstname"]
+2022-12-08 20:15:47,569 - Utility.Log -INFO - Setting text
+2022-12-08 20:15:47,648 - Utility.Log -INFO - Pass:Jamie is entered
+2022-12-08 20:15:47,649 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="lastname"]
+2022-12-08 20:15:47,663 - Utility.Log -INFO - Setting text
+2022-12-08 20:15:47,727 - Utility.Log -INFO - Pass:Hernandez is entered
+2022-12-08 20:15:47,728 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="email_address"]
+2022-12-08 20:15:47,755 - Utility.Log -INFO - Setting text
+2022-12-08 20:15:47,841 - Utility.Log -INFO - Pass:jamie.hernandez@example.com is entered
+2022-12-08 20:15:47,841 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="password"]
+2022-12-08 20:15:47,863 - Utility.Log -INFO - Setting text
+2022-12-08 20:15:47,953 - Utility.Log -INFO - Pass:Unlimint@56789 is entered
+2022-12-08 20:15:47,954 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="password-confirmation"]
+2022-12-08 20:15:47,974 - Utility.Log -INFO - Setting text
+2022-12-08 20:15:48,033 - Utility.Log -INFO - Pass:Unlimint@56789 is entered
+2022-12-08 20:15:48,035 - Utility.Log -INFO - finding Web element By.xpath: //span[text()='Create an Account']
+2022-12-08 20:15:48,051 - Utility.Log -INFO - Clicking on Click on create account button
+2022-12-08 20:15:51,384 - Utility.Log -INFO - Pass:Successfully clicked on Click on create account button
+2022-12-08 20:15:51,385 - Utility.Log -INFO - finding Web element By.xpath: //span[text()='Men']
+2022-12-08 20:15:51,591 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="ui-id-17"]
+2022-12-08 20:15:51,764 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="ui-id-19"]/span
+2022-12-08 20:15:51,790 - Utility.Log -INFO - Waiting for wait to display
+2022-12-08 20:15:51,823 - Utility.Log -INFO - Pass:wait is displayed
+2022-12-08 20:15:53,423 - Utility.Log -INFO - finding Web element By.xpath: //ol[@class='products list items product-items']/li//img
+2022-12-08 20:15:53,446 - Utility.Log -INFO - Clicking on select an item
+2022-12-08 20:15:55,458 - Utility.Log -INFO - Pass:Successfully clicked on select an item
+2022-12-08 20:15:55,459 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="option-label-color-93-item-49"]
+2022-12-08 20:15:55,487 - Utility.Log -INFO - Clicking on choose the color
+2022-12-08 20:15:55,550 - Utility.Log -INFO - Pass:Successfully clicked on choose the color
+2022-12-08 20:15:55,551 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="option-label-size-143-item-170"]
+2022-12-08 20:15:55,581 - Utility.Log -INFO - Clicking on choose the size
+2022-12-08 20:15:55,625 - Utility.Log -INFO - Pass:Successfully clicked on choose the size
+2022-12-08 20:15:55,625 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="product-addtocart-button"]/span
+2022-12-08 20:15:55,644 - Utility.Log -INFO - Clicking on add to cart
+2022-12-08 20:15:55,751 - Utility.Log -INFO - Pass:Successfully clicked on add to cart
+2022-12-08 20:15:55,752 - Utility.Log -INFO - finding Web element By.xpath: /html/body/div[2]/header/div[2]/div[1]/a
+2022-12-08 20:15:55,766 - Utility.Log -INFO - Waiting for element to display
+2022-12-08 20:15:55,801 - Utility.Log -INFO - Pass:element is displayed
+2022-12-08 20:16:00,828 - Utility.Log -INFO - finding Web element By.xpath: /html/body/div[2]/header/div[2]/div[1]/a
+2022-12-08 20:16:00,854 - Utility.Log -INFO - Clicking on 
+2022-12-08 20:16:00,906 - Utility.Log -INFO - Pass:Successfully clicked on 
+2022-12-08 20:16:00,906 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="top-cart-btn-checkout"]
+2022-12-08 20:16:00,942 - Utility.Log -INFO - Clicking on checkout
+2022-12-08 20:16:02,480 - Utility.Log -INFO - Pass:Successfully clicked on checkout
+2022-12-08 20:16:07,509 - Utility.Log -INFO - finding Web element By.xpath: //input[@name='street[0]']
+2022-12-08 20:16:07,527 - Utility.Log -INFO - Setting text
+2022-12-08 20:16:07,647 - Utility.Log -INFO - Pass:Frances Ct is entered
+2022-12-08 20:16:07,648 - Utility.Log -INFO - finding Web element By.xpath: //input[@name='city']
+2022-12-08 20:16:07,668 - Utility.Log -INFO - Setting text
+2022-12-08 20:16:07,757 - Utility.Log -INFO - Pass:San Diego is entered
+2022-12-08 20:16:07,758 - Utility.Log -INFO - finding Web element By.xpath: //select[@name='region_id']
+2022-12-08 20:16:07,776 - Utility.Log -INFO - Select value
+2022-12-08 20:16:07,871 - Utility.Log -INFO - finding Web element By.xpath: //input[@name='postcode']
+2022-12-08 20:16:07,901 - Utility.Log -INFO - Setting text
+2022-12-08 20:16:07,961 - Utility.Log -INFO - Pass:72700 is entered
+2022-12-08 20:16:07,962 - Utility.Log -INFO - finding Web element By.xpath: //input[@name='telephone']
+2022-12-08 20:16:07,978 - Utility.Log -INFO - Setting text
+2022-12-08 20:16:08,069 - Utility.Log -INFO - Pass:(727) 936-8653 is entered
+2022-12-08 20:16:08,070 - Utility.Log -INFO - finding Web element By.xpath: //input[@name='ko_unique_1']
+2022-12-08 20:16:08,087 - Utility.Log -INFO - Clicking on shipping method
+2022-12-08 20:16:08,134 - Utility.Log -INFO - Pass:Successfully clicked on shipping method
+2022-12-08 20:16:08,135 - Utility.Log -INFO - finding Web element By.xpath: //*[@id="shipping-method-buttons-container"]/div/button/span
+2022-12-08 20:16:08,165 - Utility.Log -INFO - Clicking on next button
+2022-12-08 20:16:08,214 - Utility.Log -INFO - Pass:Successfully clicked on next button
+2022-12-08 20:16:16,242 - Utility.Log -INFO - finding Web element By.xpath: //button[@title='Place Order']
+2022-12-08 20:16:16,263 - Utility.Log -INFO - Clicking on place order button
+2022-12-08 20:16:16,308 - Utility.Log -INFO - Pass:Successfully clicked on place order button
+2022-12-08 20:16:16,310 - Utility.Log -INFO - finding Web element By.xpath: //span[@data-ui-id='page-title-wrapper']
+2022-12-08 20:16:16,328 - Utility.Log -INFO - Getting Element Text
+2022-12-08 20:16:16,344 - Utility.Log -INFO - Pass:Text is:Checkout

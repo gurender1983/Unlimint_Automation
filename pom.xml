@@ -30,7 +30,7 @@
 <includes>
 <include>TestRunner/RunCucumberFeatures</include>
 </includes>
-<!--  <suiteXmlFiles> <suiteXmlFiles>testng.xml</suiteXmlFiles> </suiteXmlFiles>  -->
+<suiteXmlFiles> <suiteXmlFiles>testng.xml</suiteXmlFiles> </suiteXmlFiles>
 </configuration>
 </plugin>
 <plugin>

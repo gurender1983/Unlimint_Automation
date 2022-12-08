@@ -1,6 +1,10 @@
+Cucumber\ScenarioContext.class
+enums\Context.class
 Core\CoreFunctions.class
 BrowserInstance\BrowserHandle.class
 Config\Config.class
+PageObjects\user_Registration_PO.class
+Cucumber\TestContext.class
 Utility\PageUtil.class
 Utility\Log.class
 Core\Assertions.class
